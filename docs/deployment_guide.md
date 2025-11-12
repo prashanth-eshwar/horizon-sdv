@@ -735,7 +735,7 @@ Follow the below steps to assign a user to required Keycloak group,
 This section includes the steps to assign a user to a Keycloak group to enable Argo CD access. Group membership determines the level of access granted to the user.
 
 #### Available Groups
-Below table details the Keycloak to jenkins RBAC mapping with their access level granted to users within the respective groups.
+Below table details the Keycloak to Argo CD mapping with their access level granted to users within the respective groups.
 
 | Keycloak Group                                 | Argo CD Role                         | Access Level                             |
 |------------------------------------------------|--------------------------------------|------------------------------------------|
